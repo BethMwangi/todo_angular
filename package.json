@@ -1,0 +1,26 @@
+{
+  "name": "todo_angular",
+  "version": "1.0.0",
+  "description": "MEAN TODO APP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BethMwangi/todo_angular.git"
+  },
+  "author": "Beth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser":"*",
+    "ejs":"*",
+    "express":"*",
+    "mongojs":"*"
+
+  },
+  "bugs": {
+    "url": "https://github.com/BethMwangi/todo_angular/issues"
+  },
+  "homepage": "https://github.com/BethMwangi/todo_angular#readme"
+}
